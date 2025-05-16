@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d17b30eeb70e44a4d8d2fc2bf803cb57, type: 3}
+  m_Name: SymbolData_Bell
+  m_EditorClassIdentifier: 
+  symbol: 6
+  icon: {fileID: 3616512531535755360, guid: e58417319cedf8443ba8b9efbd1884c8, type: 3}
+  probability: 3
+  payoutMultiplier: 30
+  isWild: 0
+  isScatter: 0
